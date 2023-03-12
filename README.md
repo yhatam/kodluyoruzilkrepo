@@ -3,3 +3,17 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Installation
 Önceki projeyi clonelayın
+
+''' git clone https://github.com/yhatam/kodluyoruzilkrepo.git '''
+
+## Usage 
+Projeyi cloneladıktan sonra Visuat Studio Code programında açınız.
+
+MacOS için:
+''' git clone https://github.com/yhatam/kodluyoruzilkrepo.git '''
+
+## Contributing 
+Pull requestler kabul edilir. Büyük değişiklikler için lünten önce neyi değiştirmek istedğini tartışmak için bir konu açınız.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
