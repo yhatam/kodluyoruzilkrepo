@@ -25,3 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lünten önce neyi d
 ## Image 
 
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
+[Patika.dev](https://app.patika.dev/yedicos)
